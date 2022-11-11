@@ -4,4 +4,4 @@
 
  - Thirukkural is considered to be the world's greatest work on ethics and morality gifted by the Tamilians.
  - Written by the poetic saint Thiruvalluvar, it is the collection of 1330 two-lined poems, each of which shows the path to integrity, non-violence and knowledge.
- - I have designed an API with Cloud Functions that returns the poem, explanation in tamil for a given Kural Number.
+ - I have designed an API with Cloud Functions that returns the poem, explanation in <h5>தமிழ்</h5> for a given Kural Number.
